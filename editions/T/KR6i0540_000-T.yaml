@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0540/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大威燈光仙人問疑經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0834.xml
+    old_id: T17n0834
+hash: sha256:8335cca419477e082758bb1a323904e3082359b626deb30c239bb04e7a20c8af
