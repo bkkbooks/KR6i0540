@@ -40,9 +40,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0540_000.yaml, hash: 'sha256:8335cca419477e082758bb1a323904e3082359b626deb30c239bb04e7a20c8af'}
-  - {seq: 1, filename: KR6i0540_001.yaml, hash: 'sha256:6f09989f23b4de525a53f5d29e0ddb9f88d3c71bbc1e46b8d44f28c088145eef'}
+  - {seq: 1, filename: KR6i0540_001.yaml, hash: 'sha256:38516e64fd4e86edc9f21643cc0498e2c86567d09786a255f3fce8c5063f5b10'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0540_001.markers.yaml, hash: 'sha256:a43f7b931eca3898eaaefca3315ddef2afbe46f14a4a90fa2216d8befada40e3'}
+  - {seq: 0, role: markers, filename: assets/KR6i0540_000.markers.yaml, hash: 'sha256:7fddff41151a7d394120e046810607555ce532a8c23fb64b2a3b1830ed4c6000'}
+  - {seq: 1, role: markers, filename: assets/KR6i0540_001.markers.yaml, hash: 'sha256:d548ac21a669811eb45ec659ca7bdfdc36f65789d6c2ba97aab804bc9a948654'}
 table_of_contents:
 - ref:
     seq: 1
@@ -54,7 +55,4 @@ table_of_contents:
   label: 大威燈光仙人問疑經
   type: juan
   level: 1
-hash: sha256:f61398dd85f1bf60deed37b315d80124bfabbb35b2f573c5b2c4a615d16caef8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4e56b21bc0f5885650f0b12e5e3a8d991f88ffb18cbf05befd0f12782d87b42a
