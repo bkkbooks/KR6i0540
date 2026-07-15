@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0540/v1
 canonical_location: https://kanripo.org/bkk/KR6i0540/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大威燈光仙人問疑經
   identifiers:
@@ -40,10 +40,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0540_000.yaml, hash: 'sha256:8335cca419477e082758bb1a323904e3082359b626deb30c239bb04e7a20c8af'}
-  - {seq: 1, filename: KR6i0540_001.yaml, hash: 'sha256:38516e64fd4e86edc9f21643cc0498e2c86567d09786a255f3fce8c5063f5b10'}
+  - {seq: 1, filename: KR6i0540_001.yaml, hash: 'sha256:63806326bd41fa9d515f5cb8dba0ff220a877b0cff84c56042e336d4cbbf250f'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0540_000.markers.yaml, hash: 'sha256:7fddff41151a7d394120e046810607555ce532a8c23fb64b2a3b1830ed4c6000'}
-  - {seq: 1, role: markers, filename: assets/KR6i0540_001.markers.yaml, hash: 'sha256:d548ac21a669811eb45ec659ca7bdfdc36f65789d6c2ba97aab804bc9a948654'}
+  - {seq: 1, role: markers, filename: assets/KR6i0540_001.markers.yaml, hash: 'sha256:db6a1eb92fbbb4eb3ea8ee8cfa3c7393e536bcb3917d7c6aca7f2ee4f94fa130'}
 table_of_contents:
 - ref:
     seq: 1
@@ -55,4 +55,7 @@ table_of_contents:
   label: 大威燈光仙人問疑經
   type: juan
   level: 1
-hash: sha256:4e56b21bc0f5885650f0b12e5e3a8d991f88ffb18cbf05befd0f12782d87b42a
+hash: sha256:1431c4548a596e0a809329482ceb893e7e237131f18b640a077b979a5cbc48fc
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
